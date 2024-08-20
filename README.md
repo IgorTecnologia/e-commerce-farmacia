@@ -1,4 +1,5 @@
 # E-commerce Farmacêutico - Gerenciamento de Produtos
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Esta aplicação foi desenvolvida utilizando exclusivamente a linguagem Java e é focada no gerenciamento de produtos para um e-commerce farmacêutico.
 
